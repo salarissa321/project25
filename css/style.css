@@ -1,0 +1,109 @@
+
+body{
+    font-family: "Cerebri Sans,sans-serif";
+    
+}
+
+
+
+
+.mydiv{
+
+}
+
+.mycontainer{
+
+}
+
+.mynav{
+
+}
+
+.navbar-brand{
+font-size: 30px;
+font-weight: 700;
+}
+
+.mylink{
+    position: relative;
+    line-height: 26px;
+    color: #6c757d;
+    font-size: 16px;
+    display: inline-block;
+    transition: all .5s;
+    background-color: transparent !important;
+    padding: 6px 0;
+    margin: 0 18px;
+    font-weight: 500;
+    font-family: Mandali,sans-serif;
+}
+
+.mybtn1{
+    position: relative;
+line-height: 26px;
+color: #6c757d;
+font-size: 16px;
+display: inline-block;
+transition: all .5s;
+background-color: transparent !important;
+padding: 6px 0;
+margin: 0 18px;
+font-weight: 500;
+font-family: Mandali,sans-serif;
+text-decoration: none;
+}
+
+.mybtn2{
+background-color: #1f61eb26;
+border-color: #1f61eb33;
+color: #1f61eb;
+transition: all .3s ease-in-out;
+padding: 6px 16px;
+border: 1px solid;
+font-size: 16px;
+font-family: Mandali,sans-serif;
+text-decoration: none;
+border-radius:5px;
+}
+
+.myschrift{
+    font-weight: 700 !important;
+    margin-bottom: 1.5rem !important;
+    font-size: 3.5rem;
+    line-height: 1.2;
+    font-family: "Cerebri Sans,sans-serif";
+    
+}
+
+.mypara{
+    font-size: 17px;
+    margin-bottom: 1.5rem !important;
+    line-height: 1.7;
+    margin-top: 0;
+   color: gray;
+    font-size: 20px;
+    
+}
+
+.myicon1{
+    margin-right: 10px;
+    color: #41E6B9;
+}
+
+.myparagraf{
+    color: #6c757d !important;
+    margin-bottom: .5rem !important;
+    margin-top: 0;
+    line-height: 1.7;
+}
+
+.mybutton{
+background-color: #1f61eb !important;
+border: 1px solid #1f61eb !important;
+color: #fff !important;
+padding: 12px 20px;
+font-size: 17px;
+
+font-family: Mandali,sans-serif;
+
+}
