@@ -247,5 +247,63 @@ line-height: 1.7;
 margin-top: 0;
 margin-bottom: 1rem;
 color: #6c757d !important;
+}
 
+.myheader1{
+    color: #343a40;
+    text-transform: uppercase;
+    font-weight: 400;
+    font-size: 1rem;
+    line-height: 1.2;
+    margin-top: 0;
+margin-bottom: .5rem;
+font-family: "Cerebri Sans,sans-serif";
+}
+
+.myheader2{
+    font-weight: 700;
+    font-size: 30px;
+    margin-top: 18px;
+    line-height: 1.3;
+    margin-bottom: .5rem ;
+    font-family: "Cerebri Sans,sans-serif";
+}
+
+.satz{
+    line-height: 1.7;
+    margin-bottom: 0 !important;
+    color: #6c757d !important;
+}
+
+.mybild{
+  max-width: 20%;
+  height: auto;
+    margin-left: 520px;
+   border-radius: 8px;
+    margin-top: 30px;
+    vertical-align: middle;
+}
+
+
+.mykuli{
+    font-weight : 700 !important;
+    margin-bottom: 1.5rem !important;
+    font-size: 3rem;
+    line-height: 1.2;
+    margin-top: 0;
+    font-family: "Cerebri Sans,sans-serif";
+}
+
+.myschlagzeile{
+    color: #6c757d !important;
+    margin-bottom: 3rem !important;
+    margin-right: auto !important;
+margin-left: auto !important;
+width: 75% !important;
+line-height: 1.7;
+margin-top: 0;
+}
+
+.myclick{
+    margin-left: 450px;
 }
